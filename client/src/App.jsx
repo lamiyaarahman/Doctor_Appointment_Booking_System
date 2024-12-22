@@ -1,13 +1,13 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './pages/Home'
-import Doctors from './pages/Doctors'
-import About from './pages/About'
-import Contact from './pages/Contact'
-import Login from './pages/Login'
-import MyProfile from './pages/MyProfile'
-import MyAppointments from './pages/MyAppointments'
-import Appointment from './pages/Appointment'
+import Home from './pages/Home.jsx'
+import Doctors from './pages/Doctors.jsx'
+import About from './pages/About.jsx'
+import Contact from './pages/Contact.jsx'
+import Login from './pages/Login.jsx'
+import MyProfile from './pages/MyProfile.jsx'
+import MyAppointments from './pages/MyAppointments.jsx'
+import Appointment from './pages/Appointment.jsx'
 
 const App = () => {
   return (
